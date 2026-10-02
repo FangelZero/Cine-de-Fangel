@@ -35,3 +35,9 @@ h2{
     font-size: 5vw;
     margin-bottom: 2vw;
 }
+
+a:link {
+  color: rgb(223, 106, 106);
+  background-color: transparent;
+  text-decoration: none;
+}
